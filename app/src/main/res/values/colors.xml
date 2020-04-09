@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#77575c</color>
+    <color name="colorPrimaryDark">#a2757c</color>
+    <color name="colorAccent">#d0959e</color>
+    <color name="corFundoMain">#fff3f4</color>
+    <color name="corFundoCardView">#e39ca7</color>
+    <color name="corFundoCardLinearLayout">#a2757c</color>
+    <color name="corFundoCardLinearLayoutConteudo">#77575c</color>
+    <color name="corFundoFotos">#fff3f4</color>
+    <color name="corTexto">#FFFFFF</color>
+</resources>
